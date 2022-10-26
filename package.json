@@ -2,14 +2,15 @@
   "name": "app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Scott Moss <willscottmoss@gmail.com>",
+  "author": "Fatin Noor Anik <fatinanik129@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@theme-ui/presets": "^0.3.0",
-    "next": "^9.5.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "theme-ui": "^0.3.1"
+    "@emotion/react": "^11.10.4",
+    "@theme-ui/presets": "^0.15.3",
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "theme-ui": "^0.15.3"
   },
   "scripts": {
     "dev": "next",
